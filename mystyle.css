@@ -12,3 +12,6 @@ img{
   height:100%;
   object-fit:contain;
 }
+
+th,td{border: solid thick black;}
+
