@@ -11,7 +11,7 @@ img{
   width:100%;
   height:100%;
   object-fit:cover;
-} 画面合わせ
+} /*画面合わせ*/
 
 th,td{border: solid thick black;} /*枠線*/
 
