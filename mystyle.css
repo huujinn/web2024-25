@@ -13,8 +13,8 @@ img{
 
 th,td{border: solid thick black;} /*枠線*/
 
-th.sky{color:red;}
-th.peace{color:yellow;}
+td.sky{color:red;}
+td.peace{color:yellow;}
 
 
 
