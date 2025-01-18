@@ -1,10 +1,11 @@
 function change1(){
 document.getElementById('skp').src=
 './image/IMG_7223.JPG';
-var chan='.';
+var chan='./image/IMG_7224.JPG';
+var chan1='.'
 //1秒後に元に戻す
 setInterval(function(){
 document.getElementById('skp').src=
-chan;},1000);
+chan; chan1;},1000);
 }
 
