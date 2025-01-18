@@ -3,8 +3,8 @@ function change1(){
 //'./image/IMG_7223.JPG';
 var chan='./image/IMG_7224.JPG';
 var chan1='./image/IMG_7131.JPG';
-var chan2='./image/IMG_7223.JPG'
-var chan3=''
+var chan2='./image/IMG_7223.JPG';
+var chan3='/image/IMG_9477.JPG';
 //3秒後
 setInterval(function(){
 document.getElementById('skp').src=
