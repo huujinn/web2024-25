@@ -2,7 +2,7 @@ body{background-color: lightblue;} /*背景色*/
 
 h1{color:white;} /*文字色*/
 
-th,td{border: solid thick black; margin: 20px 50px;} /*枠線*/
+th,td{border: solid thick black;} /*枠線*/
 
 td.sky{color:red;}
 td.peace{color:yellow;} /*メンバーカラー*/
@@ -10,7 +10,7 @@ td.peace{color:yellow;} /*メンバーカラー*/
 p.sample3{margin: 20px 50px; padding: 10px; border:medium solid black;} /*紹介文*/
 
 img.imagechange{width: 100%; height: 100%;} /*メイン画像*/
-img.imagechange2{width: 70%; height: 70%; margin: 20px 150px} /*YouTube画像*/
-img.imagechange3{width: 70%; height: 70%; margin: 20px 150px} /*Music画像*/
+img.imagechange2{width: 80%; height: 80%; margin: 20px 150px} /*YouTube画像*/
+img.imagechange3{width: 80%; height: 80%; margin: 20px 150px} /*Music画像*/
 
 
