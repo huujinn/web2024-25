@@ -5,6 +5,6 @@ var chan='./image/IMG_9478.JPG';
 //3秒後
 setTimeout(function(){
 document.getElementById('skp').src=
-chan;},3000);
+chan;},5000);
 }
 
