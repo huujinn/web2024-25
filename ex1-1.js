@@ -1,5 +1,5 @@
 function change1(){
-//document.getElementById('skp').src=
+document.getElementById('skp').src=
 //'./image/IMG_7223.JPG';
 var chan='./image/IMG_7224.JPG';
 var chan1='./image/IMG_7131.JPG';
