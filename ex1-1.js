@@ -1,7 +1,7 @@
 function change1(){
 document.getElementById('skp').src=
-var chan='./image/IMG_7223.JPG';
-'./image/IMG_7224.JPG';
+'./image/IMG_7223.JPG';
+var chan='./image/IMG_7224.JPG';
 './image/IMG_7131.JPG';
 './image/IMG_7223.JPG';
 './image/IMG_9477.JPG';
