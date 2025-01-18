@@ -9,4 +9,4 @@ var chan3='./image/IMG_9477.JPG';
 //setTimeout(function(){
 //document.getElementById('skp').src=
 //chan; chan1; chan2; chan3;},3000);}
-setInterval(chan; chan1; chan2; chan3;,3000);}
+setInterval(function(),3000);}
