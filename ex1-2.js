@@ -5,6 +5,6 @@ var chan2='./image/IMG_7131.JPG';
 //3秒後
 setTimeout(function(){
 document.getElementById('sp').src=
-chan;},3000);
+chan2;},3000);
 }
 
