@@ -8,5 +8,5 @@ var chan3='./image/IMG_9477.JPG';
 //3秒後
 //setTimeout(function(){
 //document.getElementById('skp').src=
-//chan; chan1; chan2; chan3;},3000);}
+//chan chan1 chan2 chan3},3000);}
 setInterval(function(),3000);}
