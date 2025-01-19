@@ -4,6 +4,7 @@ h1{color:white;} /*文字色*/
 
 th,td{border: solid medium black;} /*枠線*/
 #yy{margin:auto;}
+#ss{margin:auto;}
 
 td.sky{color:red;}
 td.peace{color:yellow;} /*メンバーカラー*/
