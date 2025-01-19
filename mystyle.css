@@ -1,5 +1,7 @@
 body{background-color: lightblue;} /*背景色*/
 
+h1{color:white;}
+
 th,td{border: solid medium black;} /*枠線*/
 #yy{margin:auto;}
 
